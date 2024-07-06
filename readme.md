@@ -11,4 +11,5 @@ This project is a simple React Native application created for DCIT202 MOBILE APP
 - Make the name "Christopher Afatsiawu" bold.
 
 ## Screenshot
+![image](https://github.com/CHRISAFA464/rn-assignment2-11263079/assets/173577194/0711df3e-93f2-4b8a-ac5c-3de01fa13b59)
 
